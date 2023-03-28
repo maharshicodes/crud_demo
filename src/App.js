@@ -13,7 +13,7 @@ import Edit from './component/Edit';
 function App() {
   return (
     <div className="App">
-      <h1>hello</h1>
+      <h1>CRUD operation</h1>
       <Router>
         <Routes>
         <Route path= '/' element={<Home/>}/>
