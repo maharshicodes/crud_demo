@@ -62,7 +62,7 @@ function Home (){
                                         &nbsp;
                                         <Button onClick={()=> handleDelte(item.id)}>
                                             Delete
-                                        </Button>
+                                        </Button> 
                                     </td>
                                     </tr>
                                 )

@@ -36,7 +36,7 @@ return (
 
             </Form.Group>
 
-            <Form.Group className= "mb-3" controlId="formAge">
+            <Form.Group className= "mb-3" controlId="formAge"> 
                 <Form.Control type="text" placeholder=" Enter your Age" required 
                 onChange={(e) => SetAge(e.target.value)}>
                 </Form.Control>

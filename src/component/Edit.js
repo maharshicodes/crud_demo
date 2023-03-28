@@ -27,10 +27,10 @@ function Edit(){
       }
 
       useEffect(()=> {
-          setName(localStorage.getItem('Name'))
+          setName(localStorage.getItem('Name')) 
           setAge(localStorage.getItem('Age'))
           setId(localStorage.getItem('Id'))
-      })
+      }) 
 
     return(
         <div>

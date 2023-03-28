@@ -5,7 +5,7 @@ const Employee = [
         Age: "26",
 
     },
-    {
+    { 
         id: "2",
         Name: "Neel Pathak",
         Age: "30",
